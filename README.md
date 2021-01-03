@@ -1,26 +1,14 @@
 # 100DaysOfCode Challenge
 
-## Contents
+Challenge created by the developer [Alexander Kallaway](https://twitter.com/ka11away). The goal is to code at least one hour every day. I decided to participate in the challenge so that programming becomes routine in my life. The rules are already established [here](https://github.com/kallaway/100-days-of-code)
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+In my case, I will be doing the challenge following the site:
+[Udemy](https://www.udemy.com/course/100-days-of-code/)
 
+As I want to improve my knowledge in Python the developed projects will be posted here.
 
-## If you've decided to join:
-
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
+## List of Projects:
+1. [Day 1 - Beginner - Band Name Generator](https://repl.it/@sigfr/band-name-generator-start#main.py)
 
 ## Motivation:
 <blockquote>In 2020 I had incredible experiences that showed me how rewarding it is to work with a purpose and thereby have a social impact. I understood that I need to study hard every day to reach the established goals and participate in new projects and I believe the #100DaysOfCode challenge will help me to improve my skills and become a better programmer!</blockquote>
