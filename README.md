@@ -1,6 +1,6 @@
 # 100DaysOfCode Challenge
 
-Challenge created by the developer [Alexander Kallaway](https://twitter.com/ka11away). The goal is to code at least one hour every day. I decided to participate in the challenge so that programming becomes routine in my life. The rules are already established [here](https://github.com/kallaway/100-days-of-code)
+Challenge created by the developer [Alexander Kallaway](https://twitter.com/ka11away). The goal is to code at least one hour every day. I decided to participate in the challenge so that programming becomes routine in my life. The rules are established [here](https://github.com/kallaway/100-days-of-code)
 
 In my case, I will be doing the challenge following the site:
 [Udemy](https://www.udemy.com/course/100-days-of-code/)
