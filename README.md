@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# 100DaysOfCode Challenge
 
 ## Contents
 
@@ -21,3 +21,6 @@
 7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
 8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
 9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
+
+## Motivation:
+<blockquote>In 2020 I had incredible experiences that showed me how rewarding it is to work with a purpose and thereby have a social impact. I understood that I need to study hard every day to reach the established goals and participate in new projects and I believe the # 100DaysOfCode challenge will help me to improve my skills and become a better programmer!</blockquote>
