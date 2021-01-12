@@ -15,6 +15,7 @@ As I want to improve my knowledge in Python the developed projects will be poste
 5. [Day 5 - Beginner - Buying Tickets](https://repl.it/@sigfr/day-3-multiple-if-Buying-Tickets#main.py)
 6. [Day 6 - Beginner - Love Calculator](https://repl.it/@sigfr/day-3-5-exercise-Love-Calculator#main.py)
 7. [Day 7 - Beginner - Zombie Island](https://repl.it/@sigfr/zombie-island-start)
+8. [Day 8 - Beginner - Random](https://repl.it/@sigfr/day-4-start#main.py)
 
 ## Motivation:
 <blockquote>In 2020 I had incredible experiences that showed me how rewarding it is to work with a purpose and thereby have a social impact. I understood that I need to study hard every day to reach the established goals and participate in new projects and I believe the #100DaysOfCode challenge will help me to improve my skills and become a better programmer!</blockquote>
