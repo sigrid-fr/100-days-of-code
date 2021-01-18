@@ -17,7 +17,7 @@ As I want to improve my knowledge in Python the developed projects will be poste
 7. [Day 7 - Beginner - Zombie Island](https://repl.it/@sigfr/zombie-island-start)
 8. [Day 8 - Beginner - Treasure Map](https://repl.it/@sigfr/day-4-3-exercise)
 9. [Day 9 - Beginner - Sorting who will pay the bill](https://repl.it/@sigfr/day-4-2-exercise#main.py)
-10.[Day 10 - Beginner - Rock, Paper, Scissors](https://repl.it/@sigfr/rock-paper-scissors-start#main.py)
+10. [Day 10 - Beginner - Rock, Paper, Scissors](https://repl.it/@sigfr/rock-paper-scissors-start#main.py)
 
 ## Motivation:
 <blockquote>In 2020 I had incredible experiences that showed me how rewarding it is to work with a purpose and thereby have a social impact. I understood that I need to study hard every day to reach the established goals and participate in new projects and I believe the #100DaysOfCode challenge will help me to improve my skills and become a better programmer!</blockquote>
