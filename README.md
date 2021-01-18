@@ -15,7 +15,7 @@ As I want to improve my knowledge in Python the developed projects will be poste
 5. [Day 5 - Beginner - Buying Tickets](https://repl.it/@sigfr/day-3-multiple-if-Buying-Tickets#main.py)
 6. [Day 6 - Beginner - Love Calculator](https://repl.it/@sigfr/day-3-5-exercise-Love-Calculator#main.py)
 7. [Day 7 - Beginner - Zombie Island](https://repl.it/@sigfr/zombie-island-start)
-8. [Day 8 - Beginner - Virtual coin toss program](https://repl.it/@sigfr/day-4-1-exercise#main.py)
+8. [Day 8 - Beginner - Treasure Map](https://repl.it/@sigfr/day-4-3-exercise)
 9. [Day 9 - Beginner - Sorting who will pay the bill](https://repl.it/@sigfr/day-4-2-exercise#main.py)
 
 ## Motivation:
